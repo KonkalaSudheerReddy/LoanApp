@@ -1,3 +1,6 @@
+//Adding comment and making pull request #1 to learn new things
+
+// Adding a second change
 package Abstraction_6_LoanApp;
 
 import java.util.Scanner;
